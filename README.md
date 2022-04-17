@@ -30,9 +30,7 @@
 - Python 3.8
   - Statistical techniques for descriptve analysis, implementation of various ML algorithms through cross validation with logloss metrics 
 - Jupyter Notebook
-
-<b>- Final product?</b>
-Interactive Dashboard which can be virtual accessed from anywhere.
+ 
 
 ## 6.0 Conclusion
 
