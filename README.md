@@ -36,7 +36,7 @@ Interactive Dashboard which can be virtual accessed from anywhere.
 
 ## 6.0 Conclusion
 
-This project is not yet finished. So far, the accuracy of the implemented ML models is not acceptable. For some algorithms there is a overfitting (XGBClassifier) while for others there is a underfitting (SVC). 
+This project is not yet finished. So far, the accuracy of the implemented ML models is not acceptable. For some algorithms there is a overfitting (XGBClassifier, RandomForestClassfier, LGBMClassifier) while for others there is a underfitting (SVC, LogisticRegression, KNeighborsClassifier). 
 This project made it possible to learn and experience some tools and processes, such as: cross validation, label encoding, variable scaling and ML models hyperparametrs tuning.
 
 ## 7.0 Next steps:
