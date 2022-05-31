@@ -4,7 +4,7 @@
 
 ## 1.0 Summary
 
-- [Analysis Notebook](https://github.com/lhtreis/House_Rocket/blob/main/House%20Rocket.ipynb)
+- [Analysis Notebook](https://github.com/lhtreis/Bank_Loan_Default_Prediction_Hackathon/blob/main/Bank_Loan_Default.ipynb)
 
 ## 2.0 Context
 
